@@ -1,4 +1,4 @@
-# Neurofive Support Bot 🤖
+# AI Chatbot System prompt🤖
 
 A custom AI chatbot built using the **Groq API** with a specific persona and system prompt. This bot, named **Nova**, acts as a friendly IT helpdesk assistant for a fictional company called **Neurofive Solutions**, and stays in character even when asked off-topic or tricky questions.
 
